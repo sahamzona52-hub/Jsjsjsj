@@ -1,6 +1,6 @@
 // GHOST COMMIT - Full Green Contribution Graph (2024-2026)
 // AUTHOR : michaelkudmas-maker
-// GITHUB : https://github.com/michaelkudmas-maker
+// GITHUB : https://github.com/michaelkudmas-maker/python
 
 import { writeFileSync } from "fs";
 import { spawnSync } from "child_process";
@@ -15,7 +15,7 @@ const Config = {
     RetryAttempts: 3,
     PushAfterAll: true,
     Verbose: false,
-    RepoURL: "https://github.com/michaelkudmas-maker",
+    RepoURL: "https://github.com/michaelkudmas-maker/python",
     Branch: "main",
     Author: "michaelkudmas-maker",
     Email: "michaelkudmas@gmail.com",
