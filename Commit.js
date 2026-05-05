@@ -15,7 +15,7 @@ const Config = {
     RetryAttempts: 3,
     PushAfterAll: true,
     Verbose: false,
-    RepoURL: "https://github.com/michaelkudmas-maker/python",
+    RepoURL: "https://github.com/michaelkudmas-maker/commit",
     Branch: "main",
     Author: "michaelkudmas-maker",
     Email: "michaelkudmas@gmail.com",
